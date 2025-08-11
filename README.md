@@ -1,56 +1,94 @@
-# Welcome to NirodhaThisum's GitHub Profile! 👋
+# Welcome to Nirodha Thisum's GitHub Profile! 👋
 
 Hi there! I'm **Nirodha Thisum**, a passionate developer and tech enthusiast. This GitHub profile showcases my projects, contributions, and explorations in the world of software development. Feel free to explore my repositories and connect with me!
 
 ## About Me 🚀
 
-- 💻 **Software Developer** with a focus on building scalable and efficient applications.
-- 🌱 Constantly learning and exploring new technologies.
-- 🛠️ Skilled in **Python, Java, JavaScript, React, Node.js, and more**.
-- 📚 Interested in **web development, machine learning, and open-source projects**.
-- 🎓 Pursuing a degree in Computer Science or related field (if applicable).
+- 💻 Software Developer with a focus on building scalable and efficient applications.
+- 🌱 Constantly learning and eager to contribute to innovative projects and teams.
+- 🛠️ Skilled in JavaScript, TypeScript, Java, Python, React.js, Angular.js, Node.js, Express, Jakarta EE, Spring Boot, and more.
+- 📚 Interested in web development, software engineering, and open-source contributions.
+- 🎓 Currently pursuing a B.Sc. Engineering (Hons) in Computer Science & Engineering at the University of Moratuwa, with a current GPA of 3.44/4.00 and Dean’s List honors.
 
-## My Projects 🛠️
+## Education 🎓
 
-Here are some of the notable projects I've worked on:
+**University of Moratuwa** (2022–Present)  
+B.Sc. Engineering (Hons) in Computer Science & Engineering  
 
-1. **[Project Name 1](https://github.com/NirodhaThisum/project-1)**  
-   A brief description of the project, its purpose, and the technologies used.
-
-2. **[Project Name 2](https://github.com/NirodhaThisum/project-2)**  
-   A brief description of the project, its purpose, and the technologies used.
-
-3. **[Project Name 3](https://github.com/NirodhaThisum/project-3)**  
-   A brief description of the project, its purpose, and the technologies used.
-
-Feel free to check out my repositories for more projects!
+**Maris Stella College – Negombo**  
+GCE A/L 2020 – Physical Science Stream (4 A’s, District Rank: 2, Island Rank: 26)  
+GCE O/L 2017 – 9 A’s including ICT  
 
 ## Skills 🛠️
 
-Here are some of the technologies and tools I work with:
+### Programming Languages  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)  
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
 
-- **Programming Languages**: Python, Java, JavaScript, C++
-- **Web Development**: HTML, CSS, React, Node.js, Express.js
-- **Databases**: MySQL, MongoDB, Firebase
-- **Tools & Platforms**: Git, Docker, AWS, VS Code, IntelliJ IDEA
-- **Other Skills**: Machine Learning, Data Structures, Algorithms
+### Web Development  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)  
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)  
+![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)  
 
-## GitHub Stats 📊
+### Backend  
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)  
+![Jakarta EE](https://upload.wikimedia.org/wikipedia/commons/1/19/Jakarta_EE_logo.svg)  
+![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)  
+![NestJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg)  
 
-![NirodhaThisum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirodhaThisum&show_icons=true&theme=radical)
+### Databases  
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)  
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NirodhaThisum&layout=compact&theme=radical)
+### Tools & Platforms  
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  
+![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg)  
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg)  
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)  
+![IntelliJ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg)  
+![WebStorm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg)  
+![DataGrip](https://upload.wikimedia.org/wikipedia/commons/f/f0/DataGrip_Icon.svg)  
+![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg)  
+![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)  
+![Adobe Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg)  
+
+## Experience 💼
+
+**Software Engineer Intern** – GTN Tech Pvt Ltd (6 months)  
+- Contributed to a stock market trading web app full stack development.  
+- Updated Angular.js versions (Angular 16 to 19).  
+- Technologies: Jakarta EE, Spring Boot, Angular.js, PostgreSQL, AWS.
+
+## Awards & Honors 🏅
+
+- Best Academic Performance of the Year (2020) at school level  
+- Gold Medalist in Pole Vault (school level)  
+- Cub Scout Gold Star Award and Best Cub Scout Award  
+
+## Volunteering 🤝
+
+- CSE Careers Day 2024 – Company Coordinator  
+- EXMO 2023 – Logistics Coordinator  
+- INTRECCIO 2024 – Official Welcome Night Coordinator  
+
+## Personal Interests 📸🎨
+
+- Photo Editing  
+- Mobile Photography  
+- UI Designing  
 
 ## Let's Connect! 🌐
 
-I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out to me:
+- 📧 Email: nirodha.21@cse.mrt.ac.lk  
+- 💼 LinkedIn: [linkedin.com/in/nirodha-thisum](https://linkedin.com/in/nirodha-thisum/)  
+- 🐙 GitHub: [github.com/NirodhaThisum](https://github.com/NirodhaThisum)  
 
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 🌍 **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)
-
----
-
-⭐️ Feel free to star my repositories if you find them interesting!  
+⭐ Feel free to star my repositories if you find them interesting!  
 🙌 Thanks for visiting my profile! Have a great day!
